@@ -7,5 +7,5 @@ See original work:
 
 In this code similar pieces can be obtained:
 
-<img src='images/example1.JPG' width=200 height=200> <img src='images/example2.JPG' width=200 height=200> <img src='images/example2.JPG' width=200 height=200>
+<img src='images/example1.JPG' width=200 height=200> <img src='images/example2.JPG' width=200 height=200> <img src='images/example3.JPG' width=200 height=200>
 
