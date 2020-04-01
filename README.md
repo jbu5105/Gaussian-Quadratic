@@ -7,6 +7,6 @@ See original work:
 
 In this code similar pieces can be obtained:
 
-![](images/examples1.jpg)
-![](images/examples2.jpg)
-![](images/examples3.jpg)
+![](images/example1.jpg)
+![](images/example2.jpg)
+![](images/example3.jpg)
