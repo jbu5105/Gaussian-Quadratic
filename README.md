@@ -7,6 +7,5 @@ See original work:
 
 In this code similar pieces can be obtained:
 
-![](images/example1.JPG)
-![](images/example2.JPG)
-![](images/example3.JPG)
+<src='images/example1.JPG' width=200 height=200> <src='images/example2.JPG' width=200 height=200> <src='images/example2.JPG' width=200 height=200>
+
